@@ -1,2 +1,2 @@
-# Full_Stack Holy Grail Application
+# Full-Stack Holy Grail Application
 Build a full stack application with Redis database.
